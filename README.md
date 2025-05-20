@@ -4,10 +4,7 @@
 
 ---
 
-<!-- Left-aligned, styled heading using bold + underline + neon color -->
-<h2 style="color:#8BE9FD; font-weight: 700; border-bottom: 2px solid #56CCF2; padding-bottom: 6px; text-align: left;">
-  🖥️ DashBoard
-</h2>
+### 🖥️ DashBoard
 
 <table align="center">
   <tr>
@@ -25,14 +22,16 @@
   </tr>
 </table>
 
-<!-- New format: horizontal simple text links with icons and spacing -->
-<p style="text-align:left; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color:#C2E9FF;">
-  📧 <a href="mailto:mukunth.s1004.com" style="color:#56CCF2; text-decoration:none;">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/s-mukunth1004" style="color:#56CCF2; text-decoration:none;">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🐙 <a href="https://github.com/Mukunth1004" style="color:#56CCF2; text-decoration:none;">GitHub</a>
-</p>
+---
+
+### 🌐 Find Me Online
+
+- 📧 **Email:** [mukunth.s1004.com](mailto:mukunth.s1004.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/s-mukunth1004](https://www.linkedin.com/in/s-mukunth1004)  
+- 🐙 **GitHub:** [github.com/Mukunth1004](https://github.com/Mukunth1004)
 
 ---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BE9FD,56CCF2&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8BE9FD,56CCF2&height=80&section=footer" />
 </p>
