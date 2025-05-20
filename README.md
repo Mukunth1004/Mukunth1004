@@ -25,20 +25,6 @@
   </tr>
 </table>
 
-## 💼 Works
-
-| Project Name                      | Description                                   | Link           |
-|---------------------------------|-----------------------------------------------|----------------|
-| **Cost-Prediction-AWS** | ML - Based System to predict and optimize costs for AWS    | [Repo](https://github.com/Mukunth1004/Cost-Prediction-AWS) |
-| **MoBRec** | Mood-Based-Music-Recommendation    | [Repo](https://github.com/Mukunth1004/MoBRec) |
-| **AI-Code_Smell-Detector** | Detect and Refract Code   | [Repo](https://github.com/Mukunth1004/Code-Detector-Using-AI) |
-
-
-<!-- New left-aligned, professional heading style -->
-<h2 style="color:#8BE9FD; font-weight: 700; border-bottom: 2px solid #56CCF2; padding-bottom: 6px; text-align: left;">
-  📫 Let's Connect
-</h2>
-
 <!-- New format: horizontal simple text links with icons and spacing -->
 <p style="text-align:left; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color:#C2E9FF;">
   📧 <a href="mailto:mukunth.s1004.com" style="color:#56CCF2; text-decoration:none;">Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
