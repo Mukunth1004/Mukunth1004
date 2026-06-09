@@ -163,7 +163,7 @@ Velammal Vidyalaya, Chennai | **90.2/100** | June 2019 – July 2021
   <a href="https://gitlab.com/mukunth.s1004">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-  <a href="https://yogs447.blogspot.com/">
+  <a href="mukunthan-portfolio-z7if.vercel.app">
     <img src="https://img.shields.io/badge/Blog-FF5733?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
