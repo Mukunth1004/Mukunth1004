@@ -8,7 +8,7 @@
 
 I'm a **Full Stack Engineer** with deep expertise in **DevOps & Cloud Infrastructure**. Currently at **Spizen Technologies**, I specialize in architecting and deploying scalable cloud solutions using **Kubernetes**, **Docker**, and **Hetzner Cloud**. My passion lies in optimizing database performance, designing robust CI/CD pipelines, and building resilient microservices. I combine frontend expertise in **React & Remix SSR** with backend proficiency in **Node.js & FastAPI**, delivering end-to-end solutions.
 
-**Location:** Chennai, India 📍 | **Graduating:** May 2025 🎓
+**Location:** Chennai, India 📍 | **Graduating:** June 2025 🎓
 
 ---
 
