@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Mukunthan%20Karuppaiah%20S&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20%26%20Cloud%20%7C%20AI%2FML&descSize=17&descFontColor=a8b3cf&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,3,12&amp;height=200&amp;section=header&amp;text=Mukunthan%20Karuppaiah%20S&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%7C%20DevOps%20%26%20Cloud%20%7C%20AI%2FML&amp;descSize=17&amp;descFontColor=a8b3cf&amp;descAlignY=60" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+production-grade+systems+end-to-end+%F0%9F%9A%80;7+microservices+%E2%80%A2+99.8%25+uptime+%E2%80%A2+1%2C000%2B+RPM;Transformer+Inference+%7C+ONNX+%7C+RAG+Pipelines;Kubernetes+%E2%80%A2+FastAPI+%E2%80%A2+PyTorch+%E2%80%A2+GitLab+CI%2FCD" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Building+production-grade+systems+end-to-end+%F0%9F%9A%80;7+microservices+%E2%80%A2+99.8%25+uptime+%E2%80%A2+1%2C000%2B+RPM;Transformer+Inference+%7C+ONNX+%7C+RAG+Pipelines;Kubernetes+%E2%80%A2+FastAPI+%E2%80%A2+PyTorch+%E2%80%A2+GitLab+CI%2FCD" />
 </p>
 
-<div align="center">
+<p align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mukunth1004&style=flat-square&color=58a6ff&label=Profile+Views)
 &nbsp;
@@ -17,13 +17,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mukunthan-portfolio-z7if.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukunth1004)
 
-</div>
+</p>
 
 <br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 > **Full Stack Engineer** at **Spizen Technologies**, Bangalore — engineering production systems end-to-end: ML inference platforms, Kubernetes-orchestrated microservices, and high-performance web applications.
 
@@ -49,7 +49,7 @@
       <sub>FastAPI · PostgreSQL<br/>Async Python · REST APIs<br/>SQLAlchemy ORM</sub>
     </td>
     <td align="center" width="175">
-      <h4>☸️ DevOps & Cloud</h4>
+      <h4>☸️ DevOps &amp; Cloud</h4>
       <sub>Kubernetes (K3s)<br/>GitLab CI/CD · Helm<br/>Docker · AWS · Git</sub>
     </td>
     <td align="center" width="175">
@@ -63,7 +63,7 @@
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Technical Skills
 
 **Languages**
 
@@ -95,7 +95,7 @@
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-F57C00?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-F57C00?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **DevOps & Cloud**
@@ -124,7 +124,7 @@
 
 ## 🎓 Education
 
-🏛️ &nbsp;**B.E. Computer Science & Engineering** &nbsp;·&nbsp; Anna University, Trichy &nbsp;·&nbsp; 2021 – 2025 &nbsp;·&nbsp; **CGPA: 7.9**
+**B.E. Computer Science &amp; Engineering** &nbsp;·&nbsp; Anna University, Trichy &nbsp;·&nbsp; 2021 – 2025 &nbsp;·&nbsp; **CGPA: 7.9**
 
 <br/>
 
@@ -133,13 +133,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukunth1004&show_icons=true&theme=github_dark&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_color=30363d&count_private=true&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukunth1004&amp;show_icons=true&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=8b949e&amp;border_color=30363d&amp;count_private=true&amp;hide_border=false" />
   &nbsp;
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukunth1004&theme=github-dark-blue&background=00000000&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border=30363d&sideLabels=8b949e&dates=8b949e" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukunth1004&amp;theme=github-dark-blue&amp;background=00000000&amp;ring=58a6ff&amp;fire=ff7b72&amp;currStreakLabel=58a6ff&amp;border=30363d&amp;sideLabels=8b949e&amp;dates=8b949e" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukunth1004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3358&hide_border=true&radius=6" width="94%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukunth1004&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f3358&amp;hide_border=true&amp;radius=6" width="94%" />
 </div>
 
 <br/>
@@ -150,32 +150,32 @@
 
 <div align="center">
   <a href="mailto:mukunth.s1004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/s-mukunth1004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Mukunth1004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://gitlab.com/mukunth.s1004">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://mukunthan-portfolio-z7if.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,3,12&amp;height=100&amp;section=footer" />
 </div>
 
 <p align="center">
-  <sub>📍 Chennai / Bangalore, India &nbsp;·&nbsp; Open to Full Stack, DevOps & AI/ML Engineering roles</sub>
+  <sub>📍 Chennai / Bangalore, India &nbsp;·&nbsp; Open to Full Stack, DevOps &amp; AI/ML Engineering roles</sub>
 </p>
